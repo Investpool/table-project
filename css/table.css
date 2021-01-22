@@ -1,0 +1,10 @@
+.deg{
+	background-color: darkblue;
+	color: #fff;
+	border: 3px solid yellow;
+	padding: 15px;
+}
+body{
+	margin-top: 45px;
+	margin-left: 500px;
+}   
